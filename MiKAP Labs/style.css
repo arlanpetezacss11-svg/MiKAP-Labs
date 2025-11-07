@@ -427,9 +427,7 @@ section {
   color: var(--text-secondary);
 }
 
-.team-card {
-  /* Special styling for team card */
-}
+
 
 .team-members {
   display: grid;
